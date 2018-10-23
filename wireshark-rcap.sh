@@ -7,8 +7,8 @@
 # x.veiga@udc.es, 2018-10-22
 
 # Login options
-USERLOGIN="vx"
-SERVERIP="88.5.101.133"
+USERLOGIN="yourusername"
+SERVERIP="serverip"
 PORT=22
 
 # Misc
